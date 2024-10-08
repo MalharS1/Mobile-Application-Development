@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "159632032979",
+    "project_id": "final-project-mobile-dev-db993",
+    "storage_bucket": "final-project-mobile-dev-db993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159632032979:android:cc67283f0a48ecee800026",
+        "android_client_info": {
+          "package_name": "com.example.unifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159632032979-7k5n023a21olbgdil4hmiklnbb3je9s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unifood",
+            "certificate_hash": "9c64c647ae91392d0deb7e86f3c8bdce4deb8bc3"
+          }
+        },
+        {
+          "client_id": "159632032979-lgj57bgior0tuqg5b0cph98fg5so6134.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6uPa4ass5FkmzUAR7ZrGyzkBlqAUYX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159632032979-lgj57bgior0tuqg5b0cph98fg5so6134.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159632032979-f217ltdn74nmjk7misr5f2l62l87ls0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unifood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
